@@ -1,0 +1,17 @@
+#header
+{   margin-top:  30px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightblue;
+    width: 500px;
+    border-radius: 20px;
+}
+
+h2
+{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    }
+
+
+body
+{
+    text-align: center;
+}
